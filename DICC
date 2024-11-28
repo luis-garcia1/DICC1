@@ -76,7 +76,7 @@ void menu()
 				menu();
 			}
 		break;
-	case 3: printf("PROGRAMA NO ENCONTRADO");
+	case 3: 
 			exit(0);
 		break;
 	default: menu();
